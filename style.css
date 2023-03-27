@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
